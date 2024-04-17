@@ -1,0 +1,61 @@
+{
+  "cart": [
+    {
+      "id": "ljEEAAAAMBAJ",
+      "kind": "books#volume",
+      "etag": "xN4MlEJBgaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ljEEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Outlook Business",
+        "publishedDate": "2008-09-07",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "price": 600,
+        "currency": "EGP",
+        "pageCount": 58,
+        "categories": [
+          "Business & Economics"
+        ],
+        "description": "An introduction to fundamental theories of concurrent computation and associated programming languages for developing distributed and mobile computing systems. Starting from the premise that understanding the foundations of concurrent programming is key to developing distributed computing systems, this book first presents the fundamental theories of concurrent computing and then introduces the programming languages that help develop distributed computing systems at a high level of abstraction. The major theories of concurrent computation—including the π-calculus, the actor model, the join calculus, and mobile ambients—are explained with a focus on how they help design and reason about distributed and mobile computing systems. The book then presents programming languages that follow the theoretical models already described, including Pict, SALSA, and JoCaml. The parallel structure of the chapters in both part one (theory) and part two (practice) enable the reader not only to compare the different theories but also to see clearly how a programming language supports a theoretical model. The book is unique in bridging the gap between the theory and the practice of programming distributed computing systems. It can be used as a textbook for graduate and advanced undergraduate students in computer science or as a reference for researchers in the area of programming technology for distributed computing. By presenting theory first, the book allows readers to focus on the essential components of concurrency, distribution, and mobility without getting bogged down in syntactic details of specific programming languages. Once the theory is understood, the practical part of implementing a system in an actual programming language becomes much easier.",
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ljEEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&printsec=frontcover&dq=business&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=ljEEAAAAMBAJ&dq=business&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Outlook_Business.html?hl=&id=ljEEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ljEEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "quantity": 1
+    }
+  ]
+}
